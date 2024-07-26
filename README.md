@@ -1,3 +1,3 @@
 # Speech-Processing
 
-EE679 
+EE679 Speech Processing
